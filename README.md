@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-Stephen Jacobs here, a Software and Cloud Engineer with nearly a decade of experience in technology. The journey so far has been about solving complex problems and building reliable, efficient systems.
+Stephen Jacobs here, a Software and Cloud Engineer with over a decade of experience in technology. The journey so far has been about solving complex problems and building reliable, efficient systems.
 
 **What I Do:**
 - 💻 **Frontend & Backend Development:** Skilled in JavaScript, TypeScript, React, and Node.js, creating intuitive and responsive user interfaces.
@@ -18,5 +18,5 @@ Stephen Jacobs here, a Software and Cloud Engineer with nearly a decade of exper
 
 Feel free to connect, collaborate, or discuss ideas. Always open to learning from and working with others in the tech community!
 
-- 💬 **Reach Out:** Contact at rootiovo@pm.me
+- 💬 **Reach Out:** Contact at contact@stephenjacobs.io
 - ⚡ **Fun Fact:** Growing a wide variety of cacti and experimenting with sustainable gardening practices.
